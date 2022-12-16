@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Star Wars: A New Hope",
+    "url": "http://www.imdb.com/title/tt0076759/",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Star Wars: The Empire Strikes Back",
+    "url": "http://www.imdb.com/title/tt0080684/",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Star Wars: Return of the Jedi",
+    "url": "http://www.imdb.com/title/tt0086190/",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Star Wars: The Phantom Menace",
+    "url": "http://www.imdb.com/title/tt0120915/",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Star Wars: Attack of the Clones",
+    "url": "http://www.imdb.com/title/tt0121765/",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Star Wars: Revenge of the Sith",
+    "url": "http://www.imdb.com/title/tt0121766/",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Stargate: SG-1",
+    "url": "http://www.imdb.com/title/tt0118480/",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Stargate: Atlantis",
+    "url": "http://www.imdb.com/title/tt0374455",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Stargate: Universe",
+    "url": "http://www.imdb.com/title/tt1286039",
+    "tags": [
+      "IMDB"
+    ]
+  },
+  {
+    "title": "Star Trek: The Original Series",
+    "url": "https://www.netflix.com/title/70136140",
+    "tags": [
+      "Netflix"
+    ]
+  },
+  {
+    "title": "Star Trek: The Next Generation",
+    "url": "https://www.netflix.com/title/70158329",
+    "tags": [
+      "Netflix"
+    ]
+  },
+  {
+    "title": "Star Trek: Discovery",
+    "url": "https://www.netflix.com/nz/title/80126024",
+    "tags": [
+      "Netflix"
+    ]
+  },
+  {
+    "title": "Star Trek: Deep Space Nine",
+    "url": "https://www.netflix.com/title/70158330",
+    "tags": [
+      "Netflix"
+    ]
+  },
+  {
+    "title": "Star Trek: Voyager",
+    "url": "https://www.netflix.com/title/70158331",
+    "tags": [
+      "Netflix"
+    ]
+  },
+  {
+    "title": "Star Trek: Enterprise",
+    "url": "https://www.netflix.com/title/70158332",
+    "tags": [
+      "Netflix"
+    ]
+  }
+]

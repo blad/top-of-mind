@@ -1,0 +1,52 @@
+body {
+  color: white;
+  background-color: #263238;
+  font-size: 24px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+a {
+  color: #ddd;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.list-container {
+  align-items: left;
+  display: inline-flex;
+  flex-direction: column;
+  padding-top: 2rem;
+  width: 100%;
+}
+
+.list-container a {
+  padding: 0.25rem;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.logo {
+  margin: 1rem auto;
+  font-size: 3rem;
+}
+
+.text-input {
+  background-color: #37474f;
+  border: solid 1px #90a4ae;
+  clear: both;
+  color: white;
+  display: block;
+  font-size: 24px;
+  padding: 1rem;
+  width: 100%;
+}
