@@ -59,7 +59,7 @@ function sortResults(input) {
 }
 
 window.onload = () =>
-  fetch("/data.json")
+  fetch("data.json")
     .then(response => response.json())
     .then(configuration => {
       store = configuration;
